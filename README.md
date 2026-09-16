@@ -1,0 +1,1 @@
+Estou compartilhando uma atividade prática realizada no dia 05/08, nesta atividade eu montei uma rede de um pequeno escritório, configurando notebook, computador e impressora, além de um modem e roteador.
